@@ -1,6 +1,6 @@
 # Power-BI-Sales-vs-Campaigns-App  
 
-[View on Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview)  
+[View on Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.sales-vs-campaigns-app?tab=Overview)  
 
 [![Watch the Demo](https://img.youtube.com/vi/Z78a3rHhR68/0.jpg)](https://youtu.be/Z78a3rHhR68?si=wlpmygGkydYAARG6)  
 
