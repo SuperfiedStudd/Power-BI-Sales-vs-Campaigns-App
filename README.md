@@ -1,8 +1,4 @@
----
-title: "Power-BI-Sales-vs-Campaigns-App"
-author: "Jasjyot Singh"
-output: github_document
----
+## Power-BI-Sales-vs-Campaigns-App"
 
 [View on Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview)  
 
