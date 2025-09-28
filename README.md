@@ -88,7 +88,7 @@ Compares marketing spend against generated revenue to evaluate ROI and guide fut
 This repository is intended as a showcase:  
 1. Watch the demo video above for a walkthrough.  
 2. Explore the screenshots for dashboard views.  
-3. Try the published app directly on [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview).  
+3. Try the published app directly on [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.sales-vs-campaigns-app?tab=Overview).  
    - You can download and test the app if you have a school or work account that supports Microsoft apps.  
 
 ---
